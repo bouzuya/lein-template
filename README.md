@@ -1,4 +1,4 @@
-# lein-new-bouzuya
+# lein-template
 
 A Leiningen template for bouzuya's library.
 
